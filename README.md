@@ -1,6 +1,3 @@
-# Data-Analysis-Dashboard
-This project showcases an interactive Excel dashboard for analyzing business data. It includes pivot tables, charts, and key metrics to help visualize trends and support data-driven decisions. Tools used: Excel, Data Cleaning, Data Visualization.
-
 # Data Analysis Dashboard
 
 This project demonstrates the use of **Excel** for creating an interactive **sales data analysis dashboard**. The dashboard includes the following features:
